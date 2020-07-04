@@ -1,0 +1,2 @@
+# storeFront
+Web store template
